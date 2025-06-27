@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Documentação do Protótipo de Servidor TCP/Telnet
 
 ## 1. Introdução
@@ -116,7 +115,8 @@ Certifique-se de ter **Python 3** instalado em seu sistema operacional Windows. 
 
 ## 5. Conclusão
 
-Este protótipo de servidor Telnet da Tech UniSenac representa um avanço significativo em nossas capacidades de comunicação em rede. Ao implementar funcionalidades interativas, controle de acesso por senha e a integração com serviços externos para dados em tempo real (como a temperatura), expandimos as capacidades de um sistema de comunicação básica. A superação dos desafios técnicos, como a gestão de portas, a compatibilidade de codificação e o consumo de APIs, demonstra a robustez e a adaptabilidade da nossa solução, alinhando-se diretamente à nossa missão de transformar a comunicação na era digital. Este projeto serve como uma base sólida para futuras expansões e integrações em ambientes de rede mais complexos.
-=======
+# Este protótipo de servidor Telnet da Tech UniSenac representa um avanço significativo em nossas capacidades de comunicação em rede. Ao implementar funcionalidades interativas, controle de acesso por senha e a integração com serviços externos para dados em tempo real (como a temperatura), expandimos as capacidades de um sistema de comunicação básica. A superação dos desafios técnicos, como a gestão de portas, a compatibilidade de codificação e o consumo de APIs, demonstra a robustez e a adaptabilidade da nossa solução, alinhando-se diretamente à nossa missão de transformar a comunicação na era digital. Este projeto serve como uma base sólida para futuras expansões e integrações em ambientes de rede mais complexos.
+
 # TelnetPythonServer
->>>>>>> 3a052df8e8dce8acee4ea444124d3ba3efad3400
+
+> > > > > > > 3a052df8e8dce8acee4ea444124d3ba3efad3400
